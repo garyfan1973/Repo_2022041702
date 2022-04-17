@@ -1,1 +1,1 @@
-AAA
+BBB from branch_a
